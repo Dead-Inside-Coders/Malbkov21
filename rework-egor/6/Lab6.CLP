@@ -18,22 +18,22 @@
 (deffacts init
 (block
 (color red)
-(size 11)
+(size 5)
 (place heap) 
 )
 (block
-(color black)
-(size 18)
+(color brown)
+(size 15)
 (place heap) 
 )
 (block
-(color yellow)
-(size 14)
-(place heap) 
-)
-(block
-(color green)
+(color blue)
 (size 10)
+(place heap) 
+)
+(block
+(color white)
+(size 16)
 (place heap) 
 )
 )
